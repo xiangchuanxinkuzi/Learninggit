@@ -6,3 +6,4 @@ hello xch
 bongbongbonh
 <<<<<<< HEAD
 Createing a new branch is quick and simple
+new commit
