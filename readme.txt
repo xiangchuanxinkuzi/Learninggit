@@ -4,3 +4,5 @@ Git has mutable index called stage
 today is 2020/6/19
 hello xch
 bongbongbonh
+Createing a new branch is quick & simple.
+:
